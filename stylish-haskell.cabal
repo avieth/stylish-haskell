@@ -131,7 +131,7 @@ Test-suite stylish-haskell-tests
     haskell-src-exts >= 1.18   && < 1.21,
     mtl              >= 2.0    && < 2.3,
     syb              >= 0.3    && < 0.8,
-    yaml             >= 0.7    && < 0.9
+    yaml             >= 0.7    && < 0.12
 
 Source-repository head
   Type:     git
